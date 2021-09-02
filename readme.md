@@ -13,7 +13,7 @@ Sub inicio()
 
 End Sub
 ```
-<img src="img/visual.png" width="700">
+<img src="img/visual.png" width="1000">
 
 ## CODIGO EN DART
 
@@ -25,4 +25,4 @@ void main(){
 
 ## DIAGRAMA DE FLUJO -STARUML
 
-<img src="img/staruml.png" width="700">
+<img src="img/staruml.png" width="1000">
