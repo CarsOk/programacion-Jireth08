@@ -43,6 +43,7 @@ void main() {
 
 ## CODIGO EN ATOM
 
+```
 inicio
   lea "Escriba numero", n
   Si n > 10 entonces
@@ -54,4 +55,6 @@ fin
 
 ## DIAGRAMA DE FLUJO -STARUML
 
-<img src="img/diagramaclase13.png" width="1000">
+```
+
+<img src="img/diagramaclase13.png" width="1000">  
