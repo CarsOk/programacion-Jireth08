@@ -25,7 +25,7 @@ Sub inicio()
 ```
 <img src="img/porcentajeydecisiones.png" width="1000">
 
-## CODIGO EN DART
+## CODIGO EN -DART-
 
 ```
 void main() {
@@ -41,7 +41,7 @@ void main() {
 
 ```
 
-## CODIGO EN ATOM
+## CODIGO EN -ATOM-
 
 ```
 inicio
@@ -56,5 +56,7 @@ fin
 ## DIAGRAMA DE FLUJO -STARUML
 
 ```
+
+#DIAGRAMA DE -FLUJO-
 
 <img src="img/diagramaclase13.png" width="1000">  

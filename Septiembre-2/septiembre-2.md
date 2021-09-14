@@ -15,7 +15,7 @@ End Sub
 ```
 <img src="img/visual.png" width="1000">
 
-## CODIGO EN DART
+## CODIGO EN -DART-
 
 ```
 void main(){
@@ -23,6 +23,6 @@ void main(){
 }
 ```
 
-## DIAGRAMA DE FLUJO -STARUML
+## DIAGRAMA DE FLUJO -STARUML-
 
 <img src="img/staruml.png" width="1000">
