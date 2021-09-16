@@ -2,6 +2,6 @@
 ACCESOS DIRECTOS
 
 
-[SEPTIEMBRE 2](Septiembre-2/Septiembre-2.md)
-[SEPTIEMBRE 9](Septiembre-9/Septiembre-9.md)
-[SEPTIEMBRE 13](Septiembre-13/Septiembre-13.md)
+[SEPTIEMBRE 2](Septiembre_2/Septiembre-2.md)
+[SEPTIEMBRE 9](Septiembre_9/Septiembre-9.md)
+[SEPTIEMBRE 13](Septiembre_13/Septiembre-13.md)
