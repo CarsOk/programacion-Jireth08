@@ -1,6 +1,7 @@
 # LIBRETA DE DATOS APRENDIDOS EN SUS FECHAS
 ACCESOS DIRECTOS
 
-[Septiembre 2](Septiembre-2/Jireth08\Septiembre-2.md)
-[Septiembre 9](Septiembre-9/Jireth08\Septiembre-9.md)
-[Septiembre 13](Septiembre-13/Jireth08\Septiembre-13.md)
+
+[SEPTIEMBRE 2](programacion-Jireth08/Septiembre-2.md)
+[SEPTIEMBRE 9](programacion-Jireth08/Septiembre-9.md)
+[SEPTIEMBRE 13](programacion-Jireth08/Septiembre-13.md)
