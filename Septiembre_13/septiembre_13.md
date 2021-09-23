@@ -56,7 +56,7 @@ fin
 
 ```
 
-## DIAGRAMA DE FLUJO -STARUML
+## DIAGRAMA DE FLUJO -STARUML-
 
 
 <img src="img/diagramaclase13.png" width="1000">  
